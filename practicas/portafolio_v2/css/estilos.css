@@ -1,0 +1,28 @@
+body {
+	background: #f2f2f2;
+	font-family: 'Open Sans', sans-serif;
+}
+header {
+	margin-top: 30px;
+}
+header .nav {
+	min-height: 80px;
+	overflow: hidden;
+	background: #fff;
+}
+/*Logo*/
+header .logo h2, header .logo span, header .logo p {
+	font-size: 16px;
+	display: inline-block;
+}
+
+header .logo h2 {
+	font-weight: 800;
+	text-transform: uppercase;
+}
+header .logo .icono {
+	color: #bfbfbf;
+}
+header .logo p {
+	color: #777777;
+}
